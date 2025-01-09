@@ -1,0 +1,1 @@
+This project is a clone of the old Netflix user interface (UI) built using HTML and CSS. It was created as part of my learning journey to enhance my front-end development skills. The project replicates the basic layout and design elements of the classic Netflix site, focusing on responsive design, clean code, and interactive user experience.
